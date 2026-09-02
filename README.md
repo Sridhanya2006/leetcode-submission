@@ -28,4 +28,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0844-backspace-string-compare](https://github.com/Sridhanya2006/leetcode-submission/tree/master/0844-backspace-string-compare) |
+## Array
+|  |
+| ------- |
+| [3875-construct-uniform-parity-array-i](https://github.com/Sridhanya2006/leetcode-submission/tree/master/3875-construct-uniform-parity-array-i) |
+## Math
+|  |
+| ------- |
+| [3875-construct-uniform-parity-array-i](https://github.com/Sridhanya2006/leetcode-submission/tree/master/3875-construct-uniform-parity-array-i) |
 <!---LeetCode Topics End-->
