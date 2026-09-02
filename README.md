@@ -12,13 +12,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0844-backspace-string-compare](https://github.com/Sridhanya2006/leetcode-submission/tree/master/0844-backspace-string-compare) |
 | [2390-removing-stars-from-a-string](https://github.com/Sridhanya2006/leetcode-submission/tree/master/2390-removing-stars-from-a-string) |
 ## Stack
 |  |
 | ------- |
+| [0844-backspace-string-compare](https://github.com/Sridhanya2006/leetcode-submission/tree/master/0844-backspace-string-compare) |
 | [2390-removing-stars-from-a-string](https://github.com/Sridhanya2006/leetcode-submission/tree/master/2390-removing-stars-from-a-string) |
 ## Simulation
 |  |
 | ------- |
+| [0844-backspace-string-compare](https://github.com/Sridhanya2006/leetcode-submission/tree/master/0844-backspace-string-compare) |
 | [2390-removing-stars-from-a-string](https://github.com/Sridhanya2006/leetcode-submission/tree/master/2390-removing-stars-from-a-string) |
+## Two Pointers
+|  |
+| ------- |
+| [0844-backspace-string-compare](https://github.com/Sridhanya2006/leetcode-submission/tree/master/0844-backspace-string-compare) |
 <!---LeetCode Topics End-->
