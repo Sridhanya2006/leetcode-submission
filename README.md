@@ -9,4 +9,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1148-article-views-i](https://github.com/Sridhanya2006/leetcode-submission/tree/master/1148-article-views-i) |
 | [1683-invalid-tweets](https://github.com/Sridhanya2006/leetcode-submission/tree/master/1683-invalid-tweets) |
 | [1757-recyclable-and-low-fat-products](https://github.com/Sridhanya2006/leetcode-submission/tree/master/1757-recyclable-and-low-fat-products) |
+## String
+|  |
+| ------- |
+| [2390-removing-stars-from-a-string](https://github.com/Sridhanya2006/leetcode-submission/tree/master/2390-removing-stars-from-a-string) |
+## Stack
+|  |
+| ------- |
+| [2390-removing-stars-from-a-string](https://github.com/Sridhanya2006/leetcode-submission/tree/master/2390-removing-stars-from-a-string) |
+## Simulation
+|  |
+| ------- |
+| [2390-removing-stars-from-a-string](https://github.com/Sridhanya2006/leetcode-submission/tree/master/2390-removing-stars-from-a-string) |
 <!---LeetCode Topics End-->
